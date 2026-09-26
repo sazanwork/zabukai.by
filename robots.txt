@@ -1,0 +1,5 @@
+# zabukai — everything here is meant to be read, by people and by answer engines.
+User-agent: *
+Allow: /
+
+Sitemap: https://zabukai.by/sitemap.xml
